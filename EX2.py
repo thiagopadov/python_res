@@ -1,0 +1,11 @@
+nome = input("Digite seu nome:\n")
+primeiro_bim = input("Nota_Primeiro_Bim:\n")
+segundo_bim = input("Nota_Segundo_Bim:\n")
+terceiro_bim = input("Nota_Terceiro_Bim:\n)")
+quarto_bim = input("Nota_Quarto_Bim:\n")
+
+print("Nome: \n", nome)
+print("1 Bimestre: \n", primeiro_bim)
+print("2 Bimestre: \n", segundo_bim)
+print("3 Bimestre: \n", terceiro_bim)
+print("4 Bimestre: \n", quarto_bim)
